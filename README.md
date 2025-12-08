@@ -7,8 +7,13 @@
   - Tested on: Windows 11
 ## 🖼 UI Attachment Preview
 
-<p align="center">
-  <img src="Screenshots/ui_attachment_preview(0).png" width="32%" />
-  <img src="Screenshots/ui_attachment_preview(1).png" width="32%" />
-  <img src="Screenshots/ui_attachment_preview(2).png" width="32%" />
-</p>
+Below are three preview screenshots showing the UI Attachment system in action.
+
+### Preview 1
+![UI Attachment System 1](Screenshots/ui_attachment_preview(0).png)
+
+### Preview 2
+![UI Attachment System 2](Screenshots/ui_attachment_preview(1).png)
+
+### Preview 3
+![UI Attachment System 3](Screenshots/ui_attachment_preview(2).png)
