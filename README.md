@@ -19,9 +19,6 @@ This project demonstrates a functional weapon attachment UI built in Unity, feat
 ## 📁 Code Location
 Assets/Task1_UI/Scripts/
 
-yaml
-Copy code
-
 Main controller: **AttachmentManager.cs**  
 (Handles UI flow, card population, stat syncing, and preview transitions.)
 
@@ -31,9 +28,6 @@ Main controller: **AttachmentManager.cs**
 
 1. Open the scene:
 Assets/Task1_UI/Scenes/UI_Attachment.unity
-
-yaml
-Copy code
 2. Press **Play**  
 3. Click different categories → card strip updates  
 4. Select a card → weapon model + stats update accordingly  
