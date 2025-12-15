@@ -1,5 +1,5 @@
 # Vertigo Games – Technical Artist Case Study  
-## Task 1: UI Attachment System (Unity 2022.3 LTS)
+## Task 1: UI Attachment System (Unity 2022.3.37f1 LTS)
 
 This project demonstrates a functional weapon attachment UI built in Unity, featuring category switching, dynamic card strips, stat updates, and a real-time preview system.
 
@@ -49,7 +49,7 @@ Below are three preview screenshots showcasing the UI Attachment system in actio
 
 - Designed for clarity and modularity — all logic is separated by responsibility.  
 - Variables kept inspector-friendly for quick iteration during production.  
-- Runs on **Unity 2022.3 LTS** (as used in the case study).
+- Runs on **Unity 2022.3.37f1 LTS** (as used in the case study).
 
 ---
 
