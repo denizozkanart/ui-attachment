@@ -1,4 +1,4 @@
-  ##UI Attachment System (Unity 2022.3.37f1 LTS)
+##UI Attachment System (Unity 2022.3.37f1 LTS)
 
 This project demonstrates a functional weapon attachment UI built in Unity, featuring category switching, dynamic card strips, stat updates, and a real-time preview system.
 
