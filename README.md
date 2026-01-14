@@ -46,11 +46,11 @@ Below are three preview screenshots showcasing the UI Attachment system in actio
 
 ## 🎬 Demo Video
 
-https://github.com/user-attachments/assets/demo-video
+[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://github.com/denizozkanart/ui-attachment/releases/download/v1.0.0/UI_Attachment.mp4)
 
-*Watch the UI Attachment system in action*
+I built this attachment UI system from scratch in Unity. It handles category switching, card-based selection, stat updates, and camera transitions. Everything is modular so it's easy to expand later.
 
-<video src="assets/UI_Attachment.mp4" controls width="100%"></video>
+**[▶️ Download and watch the demo video](https://github.com/denizozkanart/ui-attachment/releases/download/v1.0.0/UI_Attachment.mp4)**
 
 ---
 
