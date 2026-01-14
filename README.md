@@ -46,7 +46,7 @@ Below are three preview screenshots showcasing the UI Attachment system in actio
 
 ## 🎬 Demo Video
 
-[![UI Attachment Demo](https://i.vimeocdn.com/video/default_640)](https://vimeo.com/1154308580)
+[![UI Attachment Demo](https://i.vimeocdn.com/video/2106573566-c85df61ec84ebd8b798955cb5b879a4db7346386bb6ffaf11341e95124f7d0ed-d_1280.jpg)](https://vimeo.com/1154308580)
 
 > *Click the image above to watch the high-quality demo on Vimeo*
 
