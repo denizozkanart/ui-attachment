@@ -44,6 +44,16 @@ Below are three preview screenshots showcasing the UI Attachment system in actio
 
 ---
 
+## 🎬 Demo Video
+
+https://github.com/user-attachments/assets/demo-video
+
+*Watch the UI Attachment system in action*
+
+<video src="assets/UI_Attachment.mp4" controls width="100%"></video>
+
+---
+
 ## ✔ Notes
 
 - Designed for clarity and modularity — all logic is separated by responsibility.  
